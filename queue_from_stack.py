@@ -15,6 +15,9 @@ Pop from stack 1, push to stack 2 (2 gets popped, adds to stack 2)
 Stack 2 now becomes 2,1
 So dequeued element = 1
 Hence, FIFO
+
+
+POP expensive.
 '''
 
 
